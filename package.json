@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "yargs": "^16.2.0"
+  },
+  "name": "cprice",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "license": "MIT"
+}
